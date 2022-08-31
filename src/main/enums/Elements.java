@@ -1,7 +1,9 @@
 package main.enums;
 
 public enum Elements {
-    Au("Gold", 2),Cu("Медь", 3);
+    Au("Gold", 2),
+    O("O", 5),
+    Cu("Медь", 3);
 
     private String name;
     private int num;
