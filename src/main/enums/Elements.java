@@ -3,6 +3,7 @@ package main.enums;
 public enum Elements {
     Au("Gold", 2),
     O("Oxygenium", 5),
+    Be("beryllium", 5),
     Ra("Radium", 5),
     Cu("Cuprum", 3);
 
