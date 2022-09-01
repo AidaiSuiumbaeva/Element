@@ -7,6 +7,7 @@ public enum Elements {
     H("Helium",56),
     Ra("Radium",23),
     Zn("Radium", 45),
+    Li("Lithium", 5),
     Cu("Cuprum", 3);
 
     private String name;
