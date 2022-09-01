@@ -2,6 +2,7 @@ package main.enums;
 
 public enum Elements {
     Au("Gold", 2),
+
     Li("Lithium", 8),
     Cu("Cuprum", 3);
 
